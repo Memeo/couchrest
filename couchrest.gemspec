@@ -33,5 +33,4 @@ Gem::Specification.new do |s|
   s.add_development_dependency(%q<json>, [">= 1.7"])
   s.add_development_dependency(%q<rspec>, ">= 2.6")
   s.add_development_dependency(%q<rake>)
-  s.add_development_dependency(%q<multi_json>, ">= 1.7") # needed for json decode json objects
 end
